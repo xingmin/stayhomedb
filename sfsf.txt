@@ -1,2 +1,7 @@
 sfssfdsf
+<<<<<<< HEAD
 jjjjjj
+=======
+jjsdfjsj
+sjdfksj
+>>>>>>> c1f3ac92eb3de70819868f3fec80f47a4062e444
